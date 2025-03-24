@@ -1,0 +1,16 @@
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\SetDefaultDevice.exe
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\DeviceManage.dll
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\SetDefaultDevice.deps.json
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\SetDefaultDevice.runtimeconfig.json
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\SetDefaultDevice.dll
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\bin\Debug\net6.0\SetDefaultDevice.pdb
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.AssemblyInfoInputs.cache
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.AssemblyInfo.cs
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.csproj.CoreCompileInputs.cache
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.sourcelink.json
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.dll
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\refint\SetDefaultDevice.dll
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.pdb
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\SetDefaultDevice.genruntimeconfig.cache
+C:\Users\1185\Desktop\WindowsSetDefaultDevice\SetDefaultDevice\obj\Debug\net6.0\ref\SetDefaultDevice.dll
